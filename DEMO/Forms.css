@@ -1,0 +1,19 @@
+label
+{
+    align-items: center;
+}
+button
+{
+    border-radius: 10px;
+    border-color: rgb(4, 4, 16);
+}
+body
+{
+    background-color: azure;
+    margin: 30px;
+    
+}
+input
+{
+    margin: 2px;
+}
