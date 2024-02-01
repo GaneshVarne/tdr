@@ -1,1 +1,17 @@
 /*Basic elements*/
+body
+{
+  background-color: beige;
+  background-image: url("https://images.moneycontrol.com/static-mcnews/2018/09/Statue-of-Unity-Sardar-Vallabhbhai-Patel.jpg?impolicy=website&width=1600&height=900");
+}
+#im
+{
+  border-radius: 20px;
+}
+#ima
+{
+  clip-path: circle();
+  position: calc(50%);   
+  height: 250px;width: 250px;
+  border-radius: 20px;
+}
