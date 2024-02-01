@@ -1,17 +1,25 @@
 /*Basic elements*/
+h1
+{
+  font-size: 48px;
+}
 body
 {
-  background-color: beige;
-  background-image: url("https://images.moneycontrol.com/static-mcnews/2018/09/Statue-of-Unity-Sardar-Vallabhbhai-Patel.jpg?impolicy=website&width=1600&height=900");
-}
-#im
-{
-  border-radius: 20px;
+  background-image: url("https://marketplace.canva.com/EAFCO6pfthY/1/0/1600w/canva-blue-green-watercolor-linktree-background-F2CyNS5sQdM.jpg");
+  background-size: cover;
+  background-blend-mode: lighten;
+  font-family: Geneva, Verdana, sans-serif;
+  margin: 5%;
 }
 #ima
-{
-  clip-path: circle();
-  position: calc(50%);   
+{ 
+
+  float: right;   
   height: 250px;width: 250px;
-  border-radius: 20px;
+  border-radius: 350px;  
+}
+strong
+{
+  font-size: 42px;
+  font-family: Times, serif;
 }

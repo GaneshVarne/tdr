@@ -1,9 +1,0 @@
-.parent{
-    background-color: blue;
-    display: grid;
-    border-radius: 20px;
-}
-.child
-{
-    background-color: aliceblue;
-}
