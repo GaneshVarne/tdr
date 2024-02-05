@@ -5,12 +5,13 @@ label
 button
 {
     border-radius: 10px;
-    border-color: rgb(4, 4, 16);
+    
 }
 body
 {
     background-color: azure;
-    margin: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 input

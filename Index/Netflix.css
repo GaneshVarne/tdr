@@ -1,0 +1,31 @@
+
+h1
+{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    
+}
+p
+{
+    text-align: center;
+    font-size: 20px;
+    color: white; 
+}
+section
+{
+    text-align: center;
+    font-size: 20px;
+    color: white; 
+}
+button
+{
+    color: white;
+    background-color: red;
+    size: 50px;
+}
+.firstdiv
+{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*5lyavS59mazOFnb55Z6znQ.png);
+    background-color: black;
+}
